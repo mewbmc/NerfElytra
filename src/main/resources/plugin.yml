@@ -1,0 +1,4 @@
+name: NerfElytra
+version: '1.0-ALPHA '
+main: io.starseed.nerfElytra.NerfElytra
+api-version: '1.21'
