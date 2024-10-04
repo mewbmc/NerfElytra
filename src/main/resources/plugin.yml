@@ -1,6 +1,6 @@
 name: ElytraNerfPlugin
 version: 1.0
-main: com.example.elytranerfplugin.ElytraNerfPlugin
+main: io.starseed.elytranerfplugin.ElytraNerfPlugin
 api-version: 1.13
 commands:
   elytranerf:
