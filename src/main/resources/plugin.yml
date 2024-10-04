@@ -1,4 +1,9 @@
-name: NerfElytra
-version: '1.0-ALPHA '
-main: io.starseed.nerfElytra.NerfElytra
-api-version: '1.21'
+name: ElytraNerfPlugin
+version: 1.0
+main: com.example.elytranerfplugin.ElytraNerfPlugin
+api-version: 1.13
+commands:
+  elytranerf:
+    description: Set a player's End state
+    usage: /elytranerf <player> <true|false>
+    permission: elytranerfplugin.admin
